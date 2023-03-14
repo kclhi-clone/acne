@@ -1,6 +1,6 @@
 # Acne
 
-3tJXPBK43iqTqheoEebq7i - Acne
+3tJXPBK43iqTqheoEebq7i - New acne description
 
 ## Requirements
 
